@@ -1,7 +1,7 @@
-Short Lnk
+# Short Lnk
 
 This is a short link app based off of Meteor and React.
 
-Authors
+## Authors
 
 Sky Readick
